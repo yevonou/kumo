@@ -1,0 +1,6 @@
+{
+  "name": "KUMO·SOFT — 3D Motion Design Film & Studio",
+  "description": "A 10-second 24fps C4D/Octane-style 3D motion-design film and deterministic CGI studio featuring MoGraph cloner waves, SSS gummy materials, soft-body squash-and-stretch dynamics, shallow DOF, and synced ASMR sound design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
